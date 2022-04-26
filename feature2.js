@@ -1,3 +1,0 @@
-Addition1
-Addition2
-Addition3
